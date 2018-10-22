@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Library/
+PS4ControllerDemo.sln
+Packages/
+obj/
+
